@@ -1,0 +1,3 @@
+Command Line: /home/student/snps_tools_target/verdi/U-2023.03-SP1/platform/LINUXAMD64/bin/Novas -ssf axi_intcnt.fsdb
+uname(Linux vlsi58.vce.ac.in 6.19.3-1.el8.elrepo.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Feb 19 15:04:27 EST 2026 x86_64)
+Signal SIGHUP is received. Shutting down...Signal SIGHUP is received. Shutting down...
